@@ -1,4 +1,4 @@
-<h1 style="text-align: center;"> Hello there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> I'm Diogo Rodrigues! </h1>
+<h1 align="center"> Hello there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> I'm Diogo Rodrigues! </h1>
 
 ## About me :pushpin:
 
