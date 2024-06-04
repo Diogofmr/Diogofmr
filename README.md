@@ -18,7 +18,7 @@ centralized application for android
     <summary> 📖 Currently Working on: </summary>
 <br>
 
-- 🛠 Development of project [SCAR](https://github.com/DiGo-Certify/DiGo-certify-app);
+- 🛠 Development of project [SCAR](https://github.com/DiGo-Certify);
 - 🛠 Development [DiGo Certify](https://github.com/DiGo-Certify/DiGo-certify-app) using Expo React Native
 and Smart Contracts
 - 🗞️ Writing an article about Academic Certificate Registry
