@@ -5,23 +5,31 @@
 Welcome to my profile! Here's a list of things about me:
 <details>
     <summary> 🎉 Some Objectives already accomplished: </summary>
-    * Development of [Gomoku](https://github.com/astral-projects/gomoku-web), a full stack centralized application
-    * Development of [Gomoku Mobile](https://github.com/astral-projects/gomoku-mobile), a full stack centralized application for android
-    * Development of [Autorouter](https://github.com/astral-projects/autorouter), a dynamic library
+    <br>
+    
+    - 💻 Built [Gomoku](https://github.com/astral-projects/gomoku-web), a full stack centralized application
+    - 📱 Built [Gomoku Mobile](https://github.com/astral-projects/gomoku-mobile), a full stack centralized application for android
+    - ⚙️ Built [Autorouter](https://github.com/astral-projects/autorouter), a dynamic library
+    
 </details>
 
 <details>
     <summary> 📖 Currently Working on: </summary>
-    * Development of project [SCAR](https://github.com/DiGo-Certify/DiGo-certify-app);
-    * Development [DiGo Certify](https://github.com/DiGo-Certify/DiGo-certify-app) using Expo React Native and Smart Contracts
-    * Writing an article about Academic Certificate Registry
+    <br>
+    
+    - 🛠 Development of project [SCAR](https://github.com/DiGo-Certify/DiGo-certify-app);
+    - 🛠 Development [DiGo Certify](https://github.com/DiGo-Certify/DiGo-certify-app) using Expo React Native and Smart Contracts
+    - 🗞️ Writing an article about Academic Certificate Registry
+    
 </details>
         
 <details>
     <summary> 🎯 My Interests: </summary>
-    * Learning fundamentals of Blockchain Development
-    * Build an application for Handball Goalkeeper's statistics
-    * Lear how to be as productive as possible
+    <br>
+    
+    - 📚 Learning fundamentals of Blockchain Development
+    - 🚀 Build an application for Handball Goalkeeper's statistics
+    - 💻 Learn how to be as productive as possible
 </details>
 
 #
