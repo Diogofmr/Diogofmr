@@ -8,7 +8,8 @@ Welcome to my profile! Here's a list of things about me:
     <br>
     
     - 💻 Built [Gomoku](https://github.com/astral-projects/gomoku-web), a full stack centralized application
-    - 📱 Built [Gomoku Mobile](https://github.com/astral-projects/gomoku-mobile), a full stack centralized application for android
+    - 📱 Built [Gomoku Mobile](https://github.com/astral-projects/gomoku-mobile), a full stack 
+    centralized application for android
     - ⚙️ Built [Autorouter](https://github.com/astral-projects/autorouter), a dynamic library
     
 </details>
@@ -18,7 +19,8 @@ Welcome to my profile! Here's a list of things about me:
     <br>
     
     - 🛠 Development of project [SCAR](https://github.com/DiGo-Certify/DiGo-certify-app);
-    - 🛠 Development [DiGo Certify](https://github.com/DiGo-Certify/DiGo-certify-app) using Expo React Native and Smart Contracts
+    - 🛠 Development [DiGo Certify](https://github.com/DiGo-Certify/DiGo-certify-app) using Expo React Native
+    and Smart Contracts
     - 🗞️ Writing an article about Academic Certificate Registry
     
 </details>
