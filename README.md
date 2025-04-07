@@ -30,6 +30,6 @@ centralized application for android
 - 📚 Learning fundamentals of Blockchain Development
 - 🚀 Build an application for Handball Goalkeeper's statistics
 - 💻 Learn how to be as productive as possible
-- 🤾 "Handball is about 40% strength and 60% mental strength" - Mathias Gidsel.
+- 🤾 "Handball is about 40% skill and 60% mental strength" - Mathias Gidsel.
 </details>
 
